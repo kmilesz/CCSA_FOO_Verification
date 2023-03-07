@@ -1,0 +1,9 @@
+
+Step 1. in the ./ directory, type: [coq_makefile -f _CoqProject */*.v -o Makefile]
+
+Step 2. still in the ./ directory, type: [make]
+
+Step 3. type [make clean] to clean the file
+
+
+PLEASE ONLY EDIT YOUR OWN FOLDER
